@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=gdm-arch
+Description=Simple plymouth gdm-like theme with Arch Linux logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/gdm-arch
+ScriptFile=/usr/share/plymouth/themes/gdm-arch/gdm-arch.script
+
+
