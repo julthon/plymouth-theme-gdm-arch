@@ -1,8 +1,5 @@
-background.image = Image("background.png");
-background.sprite = Sprite(background.image);
-background.sprite.SetX(0);
-background.sprite.SetY(0);
-background.sprite.SetZ(10000);
+Window.SetBackgroundTopColor (0.157, 0.157, 0.157);
+Window.SetBackgroundBottomColor (0.157. 0.157, 0.157);
 
 logo.image = Image("arch-logo.png");
 logo.sprite = Sprite(logo.image);
